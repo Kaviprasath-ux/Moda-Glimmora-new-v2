@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/register/page": "app/auth/register/page.js",
+  "/brand/[slug]/page": "app/brand/[slug]/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/collection/[slug]/page": "app/collection/[slug]/page.js",
+  "/consideration/page": "app/consideration/page.js",
+  "/discover/page": "app/discover/page.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/page": "app/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js",
+  "/profile/orders/page": "app/profile/orders/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/profile/settings/page": "app/profile/settings/page.js",
+  "/story/[slug]/page": "app/story/[slug]/page.js",
+  "/wardrobe/page": "app/wardrobe/page.js"
+}
