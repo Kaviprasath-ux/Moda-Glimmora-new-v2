@@ -2,13 +2,14 @@
   "headers": {
     "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
-    "x-next-cache-tags": "_N_T_/layout,_N_T_/consideration/layout,_N_T_/consideration/page,_N_T_/consideration"
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(consumer)/layout,_N_T_/(consumer)/consideration/layout,_N_T_/(consumer)/consideration/page,_N_T_/consideration"
   },
   "segmentPaths": [
     "/_tree",
     "/_full",
-    "/consideration/__PAGE__",
-    "/consideration",
+    "/!KGNvbnN1bWVyKQ/consideration/__PAGE__",
+    "/!KGNvbnN1bWVyKQ/consideration",
+    "/!KGNvbnN1bWVyKQ",
     "/_index",
     "/_head"
   ]

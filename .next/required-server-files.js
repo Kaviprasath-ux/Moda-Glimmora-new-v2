@@ -145,7 +145,7 @@ self.__SERVER_FILES_MANIFEST={
       "isExperimentalCompile": false
     }
   },
-  "appDir": "/Users/kavi/Documents/Moda-Glimmora-new-v2",
+  "appDir": "/Users/kavi/Baarez-Projects/Moda-Glimmora-new-v2",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",

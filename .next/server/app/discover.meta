@@ -2,13 +2,14 @@
   "headers": {
     "x-nextjs-stale-time": "300",
     "x-nextjs-prerender": "1",
-    "x-next-cache-tags": "_N_T_/layout,_N_T_/discover/layout,_N_T_/discover/page,_N_T_/discover"
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(consumer)/layout,_N_T_/(consumer)/discover/layout,_N_T_/(consumer)/discover/page,_N_T_/discover"
   },
   "segmentPaths": [
     "/_tree",
     "/_full",
-    "/discover/__PAGE__",
-    "/discover",
+    "/!KGNvbnN1bWVyKQ/discover/__PAGE__",
+    "/!KGNvbnN1bWVyKQ/discover",
+    "/!KGNvbnN1bWVyKQ",
     "/_index",
     "/_head"
   ]
