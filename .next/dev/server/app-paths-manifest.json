@@ -1,26 +1,4 @@
 {
-  "/(brand)/brand/bespoke/page": "app/(brand)/brand/bespoke/page.js",
-  "/(brand)/brand/collections/page": "app/(brand)/brand/collections/page.js",
-  "/(brand)/brand/inventory/page": "app/(brand)/brand/inventory/page.js",
-  "/(brand)/brand/negotiations/page": "app/(brand)/brand/negotiations/page.js",
-  "/(brand)/brand/orders/page": "app/(brand)/brand/orders/page.js",
-  "/(brand)/brand/page": "app/(brand)/brand/page.js",
-  "/(brand)/brand/private-collections/page": "app/(brand)/brand/private-collections/page.js",
   "/(brand)/brand/products/[id]/page": "app/(brand)/brand/products/[id]/page.js",
-  "/(brand)/brand/products/page": "app/(brand)/brand/products/page.js",
-  "/(brand)/brand/profile/page": "app/(brand)/brand/profile/page.js",
-  "/(brand)/brand/sourcing/page": "app/(brand)/brand/sourcing/page.js",
-  "/(consumer)/calendar/page": "app/(consumer)/calendar/page.js",
-  "/(consumer)/collection/[slug]/page": "app/(consumer)/collection/[slug]/page.js",
-  "/(consumer)/consideration/page": "app/(consumer)/consideration/page.js",
-  "/(consumer)/discover/page": "app/(consumer)/discover/page.js",
-  "/(consumer)/page": "app/(consumer)/page.js",
-  "/(consumer)/product/[slug]/page": "app/(consumer)/product/[slug]/page.js",
-  "/(consumer)/profile/page": "app/(consumer)/profile/page.js",
-  "/(consumer)/wardrobe/page": "app/(consumer)/wardrobe/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/auth/login/page": "app/auth/login/page.js",
-  "/auth/register/page": "app/auth/register/page.js",
-  "/icon/route": "app-edge-has-no-entrypoint",
-  "/onboarding/page": "app/onboarding/page.js"
+  "/icon/route": "app-edge-has-no-entrypoint"
 }
