@@ -1,12 +1,12 @@
 {
-  "/(consumer)/calendar/page": "app/(consumer)/calendar/page.js",
-  "/(consumer)/discover/page": "app/(consumer)/discover/page.js",
+  "/(brand)/brand/collections/[id]/edit/page": "app/(brand)/brand/collections/[id]/edit/page.js",
+  "/(brand)/brand/collections/[id]/page": "app/(brand)/brand/collections/[id]/page.js",
+  "/(brand)/brand/collections/new/page": "app/(brand)/brand/collections/new/page.js",
+  "/(brand)/brand/collections/page": "app/(brand)/brand/collections/page.js",
+  "/(brand)/brand/page": "app/(brand)/brand/page.js",
+  "/(brand)/brand/products/[id]/page": "app/(brand)/brand/products/[id]/page.js",
+  "/(brand)/brand/products/page": "app/(brand)/brand/products/page.js",
   "/(consumer)/page": "app/(consumer)/page.js",
-  "/(consumer)/product/[slug]/page": "app/(consumer)/product/[slug]/page.js",
-  "/(consumer)/profile/page": "app/(consumer)/profile/page.js",
-  "/(consumer)/profile/settings/page": "app/(consumer)/profile/settings/page.js",
-  "/(consumer)/profile/silent-cart/page": "app/(consumer)/profile/silent-cart/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
   "/auth/login/page": "app/auth/login/page.js",
   "/icon/route": "app-edge-has-no-entrypoint"
 }
