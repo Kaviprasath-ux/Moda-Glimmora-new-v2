@@ -1,0 +1,4 @@
+{
+  "/(brand)/brand/products/[id]/page": "app/(brand)/brand/products/[id]/page.js",
+  "/icon/route": "app-edge-has-no-entrypoint"
+}
