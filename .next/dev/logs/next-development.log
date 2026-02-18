@@ -1,4 +1,0 @@
-[00:00:01.311] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
-[00:00:01.499] Server  LOG     ✓ Ready in 1153ms
-[00:00:02.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:04.919] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
