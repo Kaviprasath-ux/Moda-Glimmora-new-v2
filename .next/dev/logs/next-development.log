@@ -21,3 +21,55 @@
 [00:03:31.620] Server  LOG     ✓ Compiled in 336ms
 [00:03:52.782] Server  LOG     ✓ Compiled in 391ms
 [00:04:08.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:51.898] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:21.650] Server  LOG     ✓ Compiled in 390ms
+[00:06:27.440] Server  LOG     ✓ Compiled in 173ms
+[00:06:28.081] Browser ERROR   uncaughtError: ReferenceError: useBrand is not defined
+[00:06:32.545] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:32.967] Server  LOG     ✓ Compiled in 162ms
+[00:06:33.200] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:38.022] Server  LOG     ✓ Compiled in 168ms
+[00:06:43.422] Server  LOG     ✓ Compiled in 141ms
+[00:06:48.300] Server  LOG     ✓ Compiled in 148ms
+[00:06:56.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:31.052] Browser LOG     Creating collection: {"description":"test","name":"test","season":"Spring/Summer","status":"published","year":"2026"}
+[00:07:31.052] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:07:31.052] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:31.052] Browser WARN    Image with src "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:31.052] Browser WARN    Image with src "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:31.052] Browser WARN    Image with src "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:34.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:34.793] Browser WARN    Image with src "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=1200&q=80" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:34.793] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:34.793] Browser WARN    Image with src "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:34.793] Browser WARN    Image with src "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:07:34.793] Browser WARN    Image with src "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:13.250] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:08:19.754] Browser WARN    Image with src "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:19.754] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:19.754] Browser WARN    Image with src "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:33.109] Server  LOG     ✓ Compiled in 187ms
+[00:09:34.089] Browser ERROR   uncaughtError: ReferenceError: X is not defined
+[00:09:40.261] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:40.273] Server  LOG     ✓ Compiled in 137ms
+[00:09:41.142] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:42.092] Browser ERROR   uncaughtError: ReferenceError: products is not defined
+[00:09:51.703] Server  LOG     ✓ Compiled in 256ms
+[00:09:51.749] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:52.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:53.088] Browser ERROR   uncaughtError: ReferenceError: selectedProducts is not defined
+[00:09:58.395] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:58.422] Server  LOG     ✓ Compiled in 207ms
+[00:09:59.132] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:00.090] Browser ERROR   uncaughtError: ReferenceError: selectedProducts is not defined
+[00:10:20.542] Server  LOG     ✓ Compiled in 217ms
+[00:10:20.588] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:21.602] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:57.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:10.387] Browser LOG     Updating collection: {"description":"Timeless pieces that define the House of Dior.","name":"Icons","season":"Permanent","status":"published","year":"2024"}
+[00:11:10.614] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:11:10.614] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=1200&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:11:10.614] Browser WARN    Image with src "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:11:10.614] Browser WARN    Image with src "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:11:10.614] Browser WARN    Image with src "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=800&q=80" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

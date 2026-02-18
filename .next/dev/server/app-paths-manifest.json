@@ -1,4 +1,6 @@
 {
+  "/(brand)/brand/collections/[id]/edit/page": "app/(brand)/brand/collections/[id]/edit/page.js",
+  "/(brand)/brand/collections/[id]/page": "app/(brand)/brand/collections/[id]/page.js",
   "/(brand)/brand/collections/new/page": "app/(brand)/brand/collections/new/page.js",
   "/(brand)/brand/collections/page": "app/(brand)/brand/collections/page.js",
   "/(brand)/brand/page": "app/(brand)/brand/page.js",
